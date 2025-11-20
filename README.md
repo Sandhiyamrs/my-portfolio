@@ -1,6 +1,6 @@
 # 💫 Sandy's Futuristic Portfolio Website  
 
-🚀 **Live Demo:** [Visit on Vercel 🌐](hhttps://v0-futuristic-portfolio-silk.vercel.app/)  
+🚀 **Live Demo:** [Visit on Vercel 🌐](https://v0-futuristic-portfolio-silk.vercel.app/)  
 
 ---
 
