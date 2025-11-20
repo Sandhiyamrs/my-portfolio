@@ -11,6 +11,27 @@ It combines a **tech-driven design** with a **vibrant and creative aesthetic**,
 making it more than just a resume — it's an experience.
 
 ---
+## 📸 Project Screenshots
+
+### 🏠 Home Page
+[(image Home.jpg)](https://raw.githubusercontent.com/Sandhiyamrs/my-portfolio/main/assets/Home.jpg)
+
+### ⚙ About Page
+[(image About.jpg)](https://raw.githubusercontent.com/Sandhiyamrs/my-portfolio/main/assets/About.jpg)
+
+### 🎨 Education Page
+[(image Education.jpg)](https://raw.githubusercontent.com/Sandhiyamrs/my-portfolio/main/assets/Education.jpg)
+
+### ⚙ Projects Page
+[(image Projects.jpg)](https://raw.githubusercontent.com/Sandhiyamrs/my-portfolio/main/assets/Projects.jpg)
+
+### ⚙ Skills-Technologies Page
+[(image Skills-Technologies.jpg)](https://raw.githubusercontent.com/Sandhiyamrs/my-portfolio/main/assets/Skills-Technologies.jpg)
+
+### ⚙ Contact Page
+[(image Contact.jpg)](https://raw.githubusercontent.com/Sandhiyamrs/my-portfolio/main/assets/Contact.jpg)
+
+---
 
 ## 🧩 Tech Stack  
 - **HTML5** – Page Structure  
