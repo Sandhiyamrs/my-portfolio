@@ -14,22 +14,34 @@ making it more than just a resume — it's an experience.
 ## 📸 Project Screenshots
 
 ### 🏠 Home Page
-[(image Home.jpg)](https://raw.githubusercontent.com/Sandhiyamrs/my-portfolio/main/assets/Home.jpg)
+<p align="center">
+  <img src="assets/Home.jpg" width="800"/>
+</p>
 
 ### ⚙ About Page
-[(image About.jpg)](https://raw.githubusercontent.com/Sandhiyamrs/my-portfolio/main/assets/About.jpg)
+<p align="center">
+  <img src="assets/About.jpg" width="800"/>
+</p>
 
 ### 🎨 Education Page
-[(image Education.jpg)](https://raw.githubusercontent.com/Sandhiyamrs/my-portfolio/main/assets/Education.jpg)
+<p align="center">
+  <img src="assets/Education.jpg" width="800"/>
+</p>
 
 ### ⚙ Projects Page
-[(image Projects.jpg)](https://raw.githubusercontent.com/Sandhiyamrs/my-portfolio/main/assets/Projects.jpg)
+<p align="center">
+  <img src="assets/Projects.jpg" width="800"/>
+</p>
 
 ### ⚙ Skills-Technologies Page
-[(image Skills-Technologies.jpg)](https://raw.githubusercontent.com/Sandhiyamrs/my-portfolio/main/assets/Skills-Technologies.jpg)
+<p align="center">
+  <img src="assets/Skills-Technologies.jpg" width="800"/>
+</p>
 
 ### ⚙ Contact Page
-[(image Contact.jpg)](https://raw.githubusercontent.com/Sandhiyamrs/my-portfolio/main/assets/Contact.jpg)
+<p align="center">
+  <img src="assets/Contact.jpg" width="800"/>
+</p>
 
 ---
 
